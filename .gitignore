@@ -27,3 +27,5 @@ dist-ssr
 #Other
 .eslintrc.cjs
 html/
+Quiz_app
+Quiz_app.pub
